@@ -14,6 +14,9 @@
 
   ## Usage
   run node server.js in terminal, answer questions and database will be updated
+  
+  ## Walkthrough
+  Video of walkthrough can be found here [Google Drive Link](https://drive.google.com/file/d/1qUBasn2mP8Har-pA-FZ8d7nJc1v_zv_S/view)
 
   ## License
   This application is covered under the license Unlicense. For more info vist [http://unlicense.org/](http://unlicense.org/)
